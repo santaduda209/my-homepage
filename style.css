@@ -96,4 +96,10 @@ p {
   p {
     text-align: center;
   }
+
+  .app-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+  }
 }
